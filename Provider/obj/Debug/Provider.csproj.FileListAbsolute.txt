@@ -1,0 +1,4 @@
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\Provider\obj\Debug\Provider.Migrations.Schema.resources
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\Provider\obj\Debug\Provider.csproj.GenerateResource.Cache
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\Provider\obj\Debug\Provider.csproj.CoreCompileInputs.cache

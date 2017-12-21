@@ -1,0 +1,2 @@
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\LtiLibrary.Owin.Security.Lti\obj\Debug\LtiLibrary.Owin.Security.Lti.csprojResolveAssemblyReference.cache
+D:\Multiversal\MTS\Projects-Multiverse\LTI Provider\ltisamples-d1783cbd6c95b8f5a0bcfe36b4f2b59cb9ceedea\LtiLibrary.Owin.Security.Lti\obj\Debug\LtiLibrary.Owin.Security.Lti.csproj.CoreCompileInputs.cache
