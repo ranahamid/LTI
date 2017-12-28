@@ -184,8 +184,10 @@ namespace Consumer.Lti
             var roles = new List<Role>();
             foreach (var identityRole in user.Roles.Select(role => roleManager.FindById(role.RoleId)))
             {
-                if (identityRole.Name.Equals(UserRoles.StudentRole)) roles.Add(Role.Learner);
-                if (identityRole.Name.Equals(UserRoles.TeacherRole)) roles.Add(Role.Instructor);
+                if (identityRole.Name.Equals(UserRoles.StudentRole))
+                    roles.Add(Role.Learner);
+                if (identityRole.Name.Equals(UserRoles.TeacherRole))
+                    roles.Add(Role.Instructor);
             }
             
             return roles;
